@@ -20,7 +20,7 @@ struct ContentView: View {
                     .font(.subheadline)
             }
         }
-        Text("skljfdnskjfn!")
+        .padding()
     }
 }
 
